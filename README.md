@@ -100,7 +100,7 @@ python3 -m http.server 8080
 
 **3. Open the application**
 
-Visit [http://localhost:8080](http://localhost:8080) in your browser.
+Visit [https://github.com/shloka753-sketch/Medico.git) in your browser.
 
 Because the application uses JavaScript ES modules, run it through an HTTP server rather than opening `index.html` directly from your file system.
 
