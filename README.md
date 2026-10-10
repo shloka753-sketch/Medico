@@ -167,6 +167,35 @@ Potential future improvements include:
 
 These are future possibilities, not features currently implemented in this prototype.
 
+# Team Contributions
+
+**1. Divyansh Raturi – Project Lead & Planning**
+- Identified the problem and defined the project objectives.
+- Planned the project workflow and coordinated team activities.
+- Ensured the solution addresses medicine adherence for senior citizens.
+
+**2. Anuj Somani – Frontend Development**
+- Developed the user interface using HTML, CSS, and JavaScript.
+- Designed a simple, accessible, mobile-friendly interface.
+- Improved usability for elderly users.
+
+**3. Shlok Agrahari – Voice Reminder System**
+- Implemented voice-based medicine reminders.
+- Worked on English and Hindi text-to-speech functionality.
+- Tested browser voice support and reminder playback.
+
+**4. Sumit – Caregiver Alert & Logic**
+- Developed the logic for tracking unanswered reminders.
+- Worked on preparing caregiver notifications with the patient's consent.
+- Helped design the medicine reminder workflow.
+
+**5. Abhinav Bochare – Testing, Documentation & Deployment**
+- Tested the application's main features and fixed reported issues.
+- Prepared project documentation and the GitHub README.
+- Worked on publishing the website and preparing the hackathon demonstration.
+
+### Team Collaboration
+All five members contributed to planning, reviewing the solution, discussing improvements, and preparing the final hackathon presentation.
 ##  Contributing
 
 Issues and pull requests are welcome. Please prioritize accessibility, privacy, and safe handling of health-related information. Do not add features that invent or alter medical instructions or claim message delivery without confirmation.
