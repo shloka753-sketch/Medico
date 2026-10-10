@@ -114,7 +114,7 @@ node --test
 
 Tests require Node.js 18 or later and use the built-in Node.js test runner.
 
-## 🌐 Deployment
+##  Deployment
 
 Medico AI is a static website and can be hosted using GitHub Pages.
 
@@ -171,6 +171,6 @@ These are future possibilities, not features currently implemented in this proto
 
 Issues and pull requests are welcome. Please prioritize accessibility, privacy, and safe handling of health-related information. Do not add features that invent or alter medical instructions or claim message delivery without confirmation.
 
-## 📄 License
+##  License
 
 No license has been specified yet. Add a `LICENSE` file before distributing this project under a specific open-source license.
